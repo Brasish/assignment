@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body{
+	font-family: roboto;
+}
+.home-body h1{
+	font-weight:bold;
+}
+.nav-bar td{
+	/*background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);*/
+	background: #3EC2CF;
+}
+.nav-bar td:hover{
+	
+	background: #FDB813;;
+}
+
+.nav-bar td a{
+	color: white;
+}
