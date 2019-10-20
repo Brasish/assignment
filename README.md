@@ -1,8 +1,8 @@
 # About this Assignment
 
-This Website is an Assignment of Web Deployment and Publishing. It is had its first part where we submitted our basic website. 
+This Website is an Assignment of Web Deployment and Publishing. It had its first part where we submitted our basic website. 
 The 2nd part of the assignment was, Making it a responsive website. We had our task to make it optimised for the Mobile Device and HD TV use.
-I started adding CSS style first then, For making it Responsive I added Codes like Viewport for making the site Responsive. Then, I tested in the mobile device. It was working fine. 
+I started adding CSS style first then, For making it Responsive I added Codes like Viewport for making the site Responsive. Then, I tested in the mobile device. It was successful. 
 
 # Credits
 
